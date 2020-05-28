@@ -1,0 +1,44 @@
+.navbar {
+    border-bottom: 2px solid lightgray;
+    margin: 0;
+    padding: 0;
+}
+   
+
+    .about {
+        border-right: 1px solid lightgray;
+
+    }
+
+    .portfolio {
+        border-right: 1px solid lightgray;
+    }
+    
+.card {
+    margin-top: 30px;
+}
+
+h3 {
+    background-color: slategrey;
+    padding: 15px;
+}
+
+h4 {
+    border-bottom: 2px solid lightgray;
+}
+
+h6 {
+    text-align: center;
+    background-color: gray;
+    padding: 20px;
+    font-size: 8px; 
+}
+
+.fixed-bottom {
+    border-top: 5px solid black;
+}
+
+
+
+
+
