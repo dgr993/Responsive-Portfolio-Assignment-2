@@ -2,7 +2,9 @@
     border-bottom: 2px solid lightgray;
     padding: 0;
 }
-
+ul {
+    margin-right: 3%;
+}
     .about {
         border-right: 1px solid lightgray;
 
@@ -56,18 +58,18 @@ h6 {
 
 @media screen and (max-width: 640px) {
     .about {
-        border-right: 0px ;
+        padding-right: 0;
+        border-right: 0;
 
     }
 
     .portfolio {
-        border-right: 0px;
+        padding-right: 0;
+        border-right: 0;
+    } 
+
+    .nav-item {
+        margin-right: 10px;
+    }
 }
-.name {
-    background-color: slategrey;
-    padding:43px 15px;
-    height: 100%;
-    position: relative;
-    left: 50px;
-}
-}
+    
